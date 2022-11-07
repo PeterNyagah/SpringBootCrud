@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2781b9dd-40cc-4c74-a047-76d77786c605" name="Changes" comment="Completed the 'flippingBits' function below">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMapBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMapCharFrequencyCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseStringSpecial.java" afterDir="false" />
+    <list default="true" id="2781b9dd-40cc-4c74-a047-76d77786c605" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +85,7 @@
       <updated>1666873300203</updated>
       <workItem from="1666873301357" duration="9543000" />
       <workItem from="1667802596046" duration="7391000" />
-      <workItem from="1667822427677" duration="6338000" />
+      <workItem from="1667822427677" duration="7144000" />
     </task>
     <task id="LOCAL-00001" summary="Reverse a String without affecting special characters">
       <created>1666873654749</created>
@@ -115,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666880867504</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed the 'flippingBits' function below">
+      <created>1667830493573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667830493573</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
