@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2781b9dd-40cc-4c74-a047-76d77786c605" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TimeConversion.java" afterDir="false" />
+    <list default="true" id="2781b9dd-40cc-4c74-a047-76d77786c605" name="Changes" comment="Completed the 'flippingBits' function below">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapCharFrequencyCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseStringSpecial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +35,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/peter/Downloads/git/data-structures-java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.HashMapCharFrequencyCount">
+    <configuration name="HashMapBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapBasics" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapCharFrequencyCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapCharFrequencyCount" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveVowels" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringSpecial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseStringSpecial" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapCharFrequencyCount" />
+        <item itemvalue="Application.HashMapBasics" />
+        <item itemvalue="Application.RemoveVowels" />
+        <item itemvalue="Application.ReverseStringSpecial" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +90,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666873300203</updated>
-      <workItem from="1666873301357" duration="6673000" />
+      <workItem from="1666873301357" duration="9543000" />
+      <workItem from="1667802596046" duration="7391000" />
+      <workItem from="1667822427677" duration="6338000" />
     </task>
     <task id="LOCAL-00001" summary="Reverse a String without affecting special characters">
       <created>1666873654749</created>
@@ -61,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666874708193</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed the 'flippingBits' function below">
+      <created>1666880867504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666880867504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reverse a String without affecting special characters" />
     <MESSAGE value="Reverse a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse a String" />
+    <MESSAGE value="Completed the 'flippingBits' function below" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the 'flippingBits' function below" />
   </component>
 </project>
